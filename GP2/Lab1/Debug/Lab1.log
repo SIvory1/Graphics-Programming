@@ -1,0 +1,10 @@
+﻿  GameManager.cpp
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(172,16): warning C4305: '+=': truncation from 'double' to 'float'
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(177,17): warning C4305: '-=': truncation from 'double' to 'float'
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(188,20): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(189,20): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(193,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(197,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(202,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\MY Games\games-programming-2\GP2\Lab1\GameManager.cpp(206,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab1.vcxproj -> D:\MY Games\games-programming-2\GP2\Debug\Lab1.exe
